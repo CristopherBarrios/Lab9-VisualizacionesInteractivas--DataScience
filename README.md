@@ -6,6 +6,7 @@
 python app.py
 ```
 
+[Instruciones](./instrucciones/Laboratori%209.pdf)
 ## Miembros
 
 1. Mariana David
